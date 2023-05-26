@@ -12,7 +12,7 @@ public:
 
 class DoubleLinkedList {
 private:
-	Node* START;
+	Node* START; 
 public:
 	DoubleLinkedList();
 	void addNode();
