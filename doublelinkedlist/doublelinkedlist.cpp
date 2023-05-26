@@ -29,7 +29,7 @@ DoubleLinkedList::DoubleLinkedList(){
     START = NULL;
 }
 
-void DoubleLinkedList::addNode() {
+void DoubleLinkedList::addNode() { 
 	int nim;
 	string nm;
 	cout << "\nEnter the roll number of the student: ";
