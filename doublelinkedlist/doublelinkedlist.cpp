@@ -135,7 +135,7 @@ void DoubleLinkedList::revtraverse() {
 		}
 	}
 }
-
+ 
 void DoubleLinkedList::hapus() {
 	if (listEmpty()) {
 		cout << "\nList is empty" << endl;
