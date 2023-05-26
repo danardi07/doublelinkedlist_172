@@ -116,7 +116,7 @@ void DoubleLinkedList::traverse() {
 			currentNode = currentNode->next;
 		}
 	}
-}
+} 
 
 void DoubleLinkedList::revtraverse() {
 	if (listEmpty()) {
