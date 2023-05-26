@@ -5,7 +5,7 @@ using namespace std;
 class Node {
 public:
 	int noMhs;
-	string name;
+	string name; 
 	Node* next;
 	Node* prev;
 };
